@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My personal website went online!
+My personal website went online! But there's still a lot to do..
