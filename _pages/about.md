@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Center for Mathematical Economics (IMW), Bielefeld University
+subtitle: <p>Center for Mathematical Economics (IMW)<br>Bielefeld University</p>
 
 profile:
   align: right
@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 ## *This site is currently under construction*
 
-I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University. Before coming to Bielefeld, I've been a master student in mathametics at Heidelberg University.
+I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of Prof. Frank Riedel. Before coming to Bielefeld, I've been a master student in mathametics at Heidelberg University.
 
-My research interest include game and decision theory under uncertainty and their application to languages and partnership dissolutions. Furthermore, I fancy complex analysis, esp. Siegel modular forms, as well as coding theory.
+<p>My research interest include game and decision theory under uncertainty and their application to languages and partnership dissolutions.<br>Furthermore, I fancy complex analysis, esp. Siegel modular forms, as well as coding theory.</p>
