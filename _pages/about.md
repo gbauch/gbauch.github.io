@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Center for Mathematical Economics (IMW)<br>Bielefeld University</p>
+subtitle: <p>Center for Mathematical Economics (IMW)<br>Bielefeld University, Germany</p>
 
 profile:
   align: right
