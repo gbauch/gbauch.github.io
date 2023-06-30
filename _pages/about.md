@@ -19,4 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+# This site is currently under construction
+
 I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University. Before coming to Bielefeld, I've been a master student in mathametics at Heidelberg University.
