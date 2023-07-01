@@ -15,7 +15,7 @@
   contents:
     - title: PhD candidate
       institution: Bielefeld University, University of Arizona
-      year: 2019 (onwards)
+      year: since 2019
 
   
     - title: M.Sc. (mathematics)
@@ -33,7 +33,7 @@
         - BGTS mobility grant
 
 
-- title: Academic Interests
+- title: academic interests
   type: nested_list
   contents:
     - title: micro economic theory, especially game and decision theory
@@ -46,8 +46,15 @@
         - Siegel modular forms
         - coding theory
 
+- title: language skills
+  contents: 
+    - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
+- title: IT languages
+    contents:
+    - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
+    
 - title: Other Interests
   type: list
   contents:
-    - apnea diving
-    - languages
+    - sports \:\ apnea diving, climbing, wave surfing, table tennis
+    - literature \:\ Wallace Stevens
