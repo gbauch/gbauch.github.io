@@ -43,3 +43,19 @@
       items:
         - Siegel modular forms
         - coding theory
+        
+- title: language skills
+  type: list
+  contents: 
+    - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
+
+- title: IT languages
+  type: list
+  contents:
+      - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
+    
+- title: other interests
+  type: list
+  contents:
+    - apnea diving, climbing, wave surfing, table tennis
+    - poems of Wallace Stevens
