@@ -18,8 +18,25 @@ nav_order: 2
       date: April 4 2023.
 
     - title: The Texas Shoot-Out under Knightian Uncertainty
-      institution: [Stony Brook International Conference on Game Theory](https://gtcenter.org/events/the-33rd-stony-brook-international-conference-on-game-theory/) in Stony Brook, Long Island, USA
+      institution: [International Conference on Game Theory](https://gtcenter.org/events/the-33rd-stony-brook-international-conference-on-game-theory/) in Stony Brook, USA
       date: July 21 2022.
+
+    - title: The Texas Shoot-Out under Knightian Uncertainty
+      institution: [SAET 2022](https://saet.uiowa.edu/2022-conference/) at ANU, Canberra, Australia
+      date: July 21 2022.
+
+    - title: The Texas Shoot Out under Knightian Uncertainty
+      institution: [Economics Seminar](https://eller.arizona.edu/events/economics-seminar-theoryexperimental-gerrit-bauch-university-bielefeld) at UofA, Tuscon, USA
+      date: March 23, 2022.
+
+    - title: What did you say? Introducing a Metric-Dependend Stochastic Noise to Voronoi Languages
+      institution: [IBE/Brown bag seminar] at UofA, Tuscon, USA
+      date: February 10, 2022.
+
+    - title: Effects of Noise on the Grammar of Voronoi Languages
+      institution: [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at of Tübingen University
+      date: May 4 2021.
+      
 
 - title: workshops/summer schools
   type: time_table
