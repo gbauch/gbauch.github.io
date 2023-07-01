@@ -9,7 +9,6 @@ nav_order: 5
 
 ## Bielefeld University
 
-|      |                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------|
 | 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
 | 2022 | reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars) |
@@ -21,7 +20,6 @@ nav_order: 5
 
 ## Heidelberg University
 
-|      |                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------|
 | 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
 | 2022 | reading group on recent developments in game theory and general equilibrium theory (graduates, scholars)   |
