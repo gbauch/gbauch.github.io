@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-30 16:00
+date: 2023-04-04 16:00
 inline: true
 related_posts: false
 ---
 
-My personal website went online! But there's still a lot to do..
+I presented the paper *The Texas Shoot-Out under Knightian Uncertainty* at the RUFE conference in Johannesburg, South Africa.
