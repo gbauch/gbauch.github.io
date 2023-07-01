@@ -3,7 +3,7 @@ layout: cv
 permalink: /talks/
 title: talks
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 - title: invited talks
