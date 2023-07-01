@@ -36,7 +36,7 @@ nav_order: 2
      [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at of Tübingen University<br>
      May 4 2021
       
-## workshops \& summer schools
+## workshops & summer schools
 
    - *The Texas Shoot-Out under Knightian Uncertainty*<br>
       summer school [*Risk and Uncertainty in Economics, Insurance and Finance*](https://sites.google.com/view/summer-school-23/overview) at Bielefeld University, Germany<br>
