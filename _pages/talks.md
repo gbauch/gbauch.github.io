@@ -6,64 +6,20 @@ nav: true
 nav_order: 5
 ---
 
-- title: general information
-  type: map
-  contents:
-    - name: Full Name
-      value: Gerrit Bauch
-    - name: nationality
-      value: German
-   # - name: Date of Birth
-   #   value: September 17 1993
-   # - name: Languages
-   #   value: English, German
-
-- title: education
+- title: invited talks
   type: time_table
   contents:
-    - title: PhD candidate
-      institution: Bielefeld University, University of Arizona
-      year: since 2019
+    - title: Ambiguity aversion and the direction of dynamic inconsistency in sender-receiver games of common interest
+      institution: [SAET 2023](https://saet.uiowa.edu/2023-conference/) in Paris, France
+      date: July 17 2023
+      
+    - title: The Texas Shoot-Out under Knightian Uncertainty
+      institution: [RUFE 2023](https://sites.google.com/view/risk-and-uncertainty-2023/home/) in Johannesburg, South Africa.
+      date: April 4 2023.
 
-  
-    - title: M.Sc. (mathematics)
-      institution: Heidelberg University
-      year: 2019
-        
-- title: grants and scholarships
+- title: workshops/summer schools
   type: time_table
   contents:
-    - year: 2022
-      items: 
-        - DAAD grant
-        - BGTS mobility grant
-
-
-- title: academic interests
-  type: nested_list
-  contents:
-    - title: micro economic theory, especially game and decision theory
-      items: 
-        - Knightian Uncertainty
-        - capacities and their Choquet integrals
-        
-    - title: mathematics
-      items:
-        - Siegel modular forms
-        - coding theory
-        
-- title: languages
-  type: list
-  contents: 
-    - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
-
-- title: programming
-  type: list
-  contents:
-      - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
-    
-- title: other interests
-  type: list
-  contents:
-    - apnea diving, climbing, wave surfing, table tennis
-    - poems of Wallace Stevens
+    - title: The Texas Shoot-Out under Knightian Uncertainty
+      institution: sumer school [*Risk and Uncertainty in Economics, Insurance and Finance*](https://sites.google.com/view/summer-school-23/overview) at Bielefeld University, Germany
+      date: July 4 2023
