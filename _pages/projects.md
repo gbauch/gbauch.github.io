@@ -1,7 +1,8 @@
 ---
 layout: page
 title: projects
-nav: false
+permalink: /projects/
+nav: true
 nav_order: 5
 ---
 # sagemath test
