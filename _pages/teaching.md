@@ -7,20 +7,49 @@ nav: true
 nav_order: 5
 ---
 
-## Bielefeld University
 
-|------|------------------------------------------------------------------------------------------------------------|
-| 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
-| 2022 | reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars) |
-| 2020 | teaching assistant for micro economics 2 (graduate)                                                        |
-| 2019 | tutorial on game theory (undergraduate)                                                                    |
+<h2>Bielefeld University</h2>
+
+<table>
+    <tr>
+        <td>2023</td>
+        <td>practical tutorial on *risk and insurance* (undergraduate)</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars)</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td>teaching assistant for micro economics 2 (graduate)</td>
+    </tr>
+    <tr>
+        <td>2019</td>
+        <td>tutorial on game theory (undergraduate)</td>
+    </tr>
+</table>
+
+<br><br>
 
 
-     
-## Heidelberg University
 
-|------|------------------------------------------------------------------------------------------------------------|
-| 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
-| 2022 | reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars) |
-| 2020 | teaching assistant for micro economics 2 (graduate)                                                        |
-| 2019 | tutorial on game theory (undergraduate)                                                                    |
+<h2>Heidelberg University</h2>
+
+<table>
+    <tr>
+        <td>2023</td>
+        <td>practical tutorial on *risk and insurance* (undergraduate)</td>
+    </tr>
+    <tr>
+        <td>2022</td>
+        <td>reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars)</td>
+    </tr>
+    <tr>
+        <td>2020</td>
+        <td>teaching assistant for micro economics 2 (graduate)</td>
+    </tr>
+    <tr>
+        <td>2019</td>
+        <td>tutorial on game theory (undergraduate)</td>
+    </tr>
+</table>
