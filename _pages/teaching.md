@@ -9,36 +9,17 @@ nav_order: 5
 
 ## Bielefeld University
 
-|year|course|
-|----|------|
-|2023| p|
-|2022|a|
+| 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
+|------|------------------------------------------------------------------------------------------------------------|
+| 2022 | reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars) |
+| 2020 | teaching assistant for micro economics 2 (graduate)                                                        |
+| 2019 | tutorial on game theory (undergraduate)                                                                    |
 
-
-
-<table>
-    <tr>
-        <td>2023</td>
-        <td>practical tutorial on *risk and insurance* (undergraduate)</td>
-    </tr>
-    <tr>
-        <td>2022</td>
-        <td>reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars)</td>
-    </tr>
-    <tr>
-        <td>2020</td>
-        <td>teaching assistant for micro economics 2 (graduate)</td>
-    </tr>
-    <tr>
-        <td>2019</td>
-        <td>tutorial on game theory (undergraduate)</td>
-    </tr>
-</table>
-<br/><br/>
 
 
      
 ## Heidelberg University
+
 | 2018      | teaching assistant for complex analysis 1 (undergraduate)                |
 |-----------|--------------------------------------------------------------------------|
 | 2016      | teaching assistant for complex analysis 2 (undergraduate)                |
