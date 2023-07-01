@@ -26,7 +26,7 @@ nav_order: 5
         <td>tutorial on game theory (undergraduate)</td>
     </tr>
 </table>
-
+<br/><br/>
      
 ## Heidelberg University
 <table>
