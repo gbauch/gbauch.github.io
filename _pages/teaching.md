@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ## Bielefeld University
+
 <table>
     <tr>
         <td>2023</td>
@@ -31,6 +32,7 @@ nav_order: 5
 
      
 ## Heidelberg University
+
 <table>
     <tr>
         <td>2023</td>
