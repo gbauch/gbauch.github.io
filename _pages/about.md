@@ -19,7 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## *This site is currently under construction*
 
 I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of Prof. Frank Riedel. Before coming to Bielefeld, I've been a master student in mathametics at Heidelberg University.
 
