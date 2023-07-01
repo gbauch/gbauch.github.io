@@ -1,0 +1,69 @@
+---
+layout: cv
+permalink: /talks/
+title: talks
+nav: true
+nav_order: 5
+---
+
+- title: general information
+  type: map
+  contents:
+    - name: Full Name
+      value: Gerrit Bauch
+    - name: nationality
+      value: German
+   # - name: Date of Birth
+   #   value: September 17 1993
+   # - name: Languages
+   #   value: English, German
+
+- title: education
+  type: time_table
+  contents:
+    - title: PhD candidate
+      institution: Bielefeld University, University of Arizona
+      year: since 2019
+
+  
+    - title: M.Sc. (mathematics)
+      institution: Heidelberg University
+      year: 2019
+        
+- title: grants and scholarships
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - DAAD grant
+        - BGTS mobility grant
+
+
+- title: academic interests
+  type: nested_list
+  contents:
+    - title: micro economic theory, especially game and decision theory
+      items: 
+        - Knightian Uncertainty
+        - capacities and their Choquet integrals
+        
+    - title: mathematics
+      items:
+        - Siegel modular forms
+        - coding theory
+        
+- title: languages
+  type: list
+  contents: 
+    - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
+
+- title: programming
+  type: list
+  contents:
+      - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
+    
+- title: other interests
+  type: list
+  contents:
+    - apnea diving, climbing, wave surfing, table tennis
+    - poems of Wallace Stevens
