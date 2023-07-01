@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: courses, tutorials, seminars at universities
+description: courses, tutorials & seminars at universities
 nav: true
 nav_order: 4
 ---
