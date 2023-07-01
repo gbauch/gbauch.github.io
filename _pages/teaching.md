@@ -39,22 +39,7 @@ nav_order: 5
 
      
 ## Heidelberg University
-
-<table>
-    <tr>
-        <td>2023</td>
-        <td>practical tutorial on *risk and insurance* (undergraduate)</td>
-    </tr>
-    <tr>
-        <td>2022</td>
-        <td>reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars)</td>
-    </tr>
-    <tr>
-        <td>2020</td>
-        <td>teaching assistant for micro economics 2 (graduate)</td>
-    </tr>
-    <tr>
-        <td>2019</td>
-        <td>tutorial on game theory (undergraduate)</td>
-    </tr>
-</table>
+| 2018      | teaching assistant for complex analysis 1 (undergraduate)                |
+|-----------|--------------------------------------------------------------------------|
+| 2016      | teaching assistant for complex analysis 2 (undergraduate)                |
+| 2016-2019 | tutorials on complex analysis, algebra (Galois theory) and real analysis |
