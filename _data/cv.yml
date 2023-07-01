@@ -6,7 +6,7 @@
     - name: nationality
       value: German
    # - name: Date of Birth
-   #   value: 14th March 1879
+   #   value: September 17 1993
    # - name: Languages
    #   value: English, German
 
@@ -52,7 +52,6 @@
       - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
     
 - title: other interests
-  type: list
-  contents:
+  items: 
     - apnea diving, climbing, wave surfing, table tennis
     - poems of Wallace Stevens
