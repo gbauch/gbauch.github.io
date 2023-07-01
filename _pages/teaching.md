@@ -9,6 +9,13 @@ nav_order: 5
 
 ## Bielefeld University
 
+|year|course|
+|----|------|
+|2023| p|
+|2022|a|
+
+
+
 <table>
     <tr>
         <td>2023</td>
