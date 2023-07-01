@@ -17,6 +17,10 @@ nav_order: 2
       institution: [RUFE 2023](https://sites.google.com/view/risk-and-uncertainty-2023/home/) in Johannesburg, South Africa.
       date: April 4 2023.
 
+    - title: The Texas Shoot-Out under Knightian Uncertainty
+      institution: [Stony Brook International Conference on Game Theory](https://gtcenter.org/events/the-33rd-stony-brook-international-conference-on-game-theory/) in Stony Brook, Long Island, USA
+      date: July 21 2022.
+
 - title: workshops/summer schools
   type: time_table
   contents:
