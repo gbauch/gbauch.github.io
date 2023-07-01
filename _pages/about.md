@@ -11,7 +11,7 @@ profile:
   address: >
     <p>UHG V10-135</p>
     <p>Universitätsstraße 25</p>
-    <p>Bielefeld 33615 Germany</p>
+    <p>Bielefeld 33615, Germany</p>
 
 news: true  # includes a list of news items
 #latest_posts: false  # includes a list of the newest posts
