@@ -24,7 +24,7 @@ nav_order: 2
     [Economics Seminar](https://eller.arizona.edu/events/economics-seminar-theoryexperimental-gerrit-bauch-university-bielefeld) at UofA, Tuscon, USA, March 23 2022
 
   - *What did you say? Introducing a Metric-Dependend Stochastic Noise to Voronoi Languages*<br>
-    [IBE/Brown bag seminar] at UofA, Tuscon, USA, February 10 2022
+    IBE/Brown bag seminar at UofA, Tuscon, USA, February 10 2022
 
    - *Effects of Noise on the Grammar of Voronoi Languages*<br>
      [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at of Tübingen University, May 4 2021
