@@ -20,7 +20,7 @@ nav_order: 2
   - *The Texas Shoot-Out under Knightian Uncertainty*<br>
     [SAET 2022](https://saet.uiowa.edu/2022-conference/) at ANU, Canberra, Australia, July 21 2022
 
-  - *The Texas Shoot Out under Knightian Uncertainty*<br>
+  - *The Texas Shoot-Out under Knightian Uncertainty*<br>
     [Economics Seminar](https://eller.arizona.edu/events/economics-seminar-theoryexperimental-gerrit-bauch-university-bielefeld) at UofA, Tuscon, USA, March 23 2022
 
   - *What did you say? Introducing a Metric-Dependend Stochastic Noise to Voronoi Languages*<br>
