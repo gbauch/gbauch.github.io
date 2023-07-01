@@ -1,11 +1,12 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
-nav: true
+<!--permalink: /projects/-->
+nav: false
 nav_order: 5
 ---
-# sagemath test
+## sagemath test
+### *under construction*
 
 <html>
   <head>
