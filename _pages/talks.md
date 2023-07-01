@@ -29,6 +29,8 @@ nav_order: 2
    - *Effects of Noise on the Grammar of Voronoi Languages*<br>
      [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at of Tübingen University, May 4 2021
       
+<br>
+
 ## workshops & summer schools
 
    - *The Texas Shoot-Out under Knightian Uncertainty*<br>
