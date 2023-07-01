@@ -22,8 +22,6 @@
       institution: Heidelberg University
       year: 2019
         
-
-
 - title: grants and scholarships
   type: time_table
   contents:
@@ -51,7 +49,7 @@
     - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
 - title: IT languages
     contents:
-    - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
+      - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
     
 - title: other interests
   type: list
