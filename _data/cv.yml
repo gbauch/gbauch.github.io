@@ -47,9 +47,9 @@
 - title: languages
   type: list
   contents: 
-    - German (native), English (fluent), Swedish (fluent), French (B2), Chinese (HSK4)
+    - German (native), English (fluent), Swedish (fluent), Chinese (HSK4), French (B1)
 
-- title: programming
+- title: IT & programming
   type: list
   contents:
       - sagemath, maple, mathematica, LaTeX, python, html, haskell, C++
@@ -57,5 +57,6 @@
 - title: other interests
   type: list
   contents:
-    - apnea diving, climbing, wave surfing, table tennis
-    - poems of Wallace Stevens
+    - hiking, table tennis, apnea diving, climbing, wave surfing
+    - learning new languages
+    - reading poems of Wallace Stevens
