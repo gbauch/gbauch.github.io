@@ -27,11 +27,11 @@ nav_order: 2
     IBE/Brown bag seminar at UofA, Tuscon, USA, February 10 2022
 
    - *Effects of Noise on the Grammar of Voronoi Languages*<br>
-     [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at of Tübingen University, May 4 2021
+     [Advanced seminar on general linguistics](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-linguistics/oberseminar/) at Tübingen University, May 4 2021
       
 <br>
 
 ## workshops & summer schools
 
    - *The Texas Shoot-Out under Knightian Uncertainty*<br>
-      Summer school [*Risk and Uncertainty in Economics, Insurance and Finance*](https://sites.google.com/view/summer-school-23/overview) at Bielefeld University, Germany, July 4 2023
+      Summer school [Risk and Uncertainty in Economics, Insurance and Finance](https://sites.google.com/view/summer-school-23/overview) at Bielefeld University, Germany, July 4 2023
