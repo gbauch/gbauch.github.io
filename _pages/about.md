@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of Prof. Frank Riedel. Before coming to Bielefeld, I've been a master student in mathematics at Heidelberg University.
+I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/). Before coming to Bielefeld, I've been a master student in mathematics at Heidelberg University.
 
 <p>My research interests include game and decision theory under uncertainty and their application to languages and partnership dissolutions.<br>I further fancy complex analysis, esp. Siegel modular forms, and coding theory.</p>
