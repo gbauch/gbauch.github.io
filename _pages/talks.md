@@ -9,7 +9,10 @@ nav_order: 2
 ## invited talks
 
   - *Ambiguity aversion and the direction of dynamic inconsistency in sender-receiver games of common interest*<br>
-    [SAET 2023](https://saet.uiowa.edu/2023-conference/), Paris, France, July 17 2023
+    [SAET 2023](https://saet.uiowa.edu/2023-conference/), Paris, France, July 17 202
+
+  - *The Texas Shoot-Out under Knightian Uncertainty*<br>
+    [Summer School 2023: Risk and Uncertainty in Economics, Insurance and Finance](https://sites.google.com/view/summer-school-23/overview), Bielefeld, Germany, July 7 2023
       
   - *The Texas Shoot-Out under Knightian Uncertainty*<br>
     [RUFE 2023](https://sites.google.com/view/risk-and-uncertainty-2023/home/), Johannesburg, South Africa, April 4 2023
