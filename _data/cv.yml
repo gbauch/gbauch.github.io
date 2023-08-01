@@ -14,8 +14,12 @@
   type: time_table
   contents:
     - title: PhD candidate
-      institution: Bielefeld University, University of Arizona
+      institution: Bielefeld University
       year: since 2019
+
+    - title: visiting scholar
+      institution: University of Arizona
+      year: 2022
 
   
     - title: M.Sc. (mathematics)
