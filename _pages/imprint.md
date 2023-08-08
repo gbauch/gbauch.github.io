@@ -1,6 +1,6 @@
 ---
 layout: page
-<!-- permalink: /talks/ -->
+permalink: /imprint/
 title: imprint
 nav: false
 ---
