@@ -5,7 +5,6 @@ title: imprint
 nav: false
 ---
 
-# imprint
 
 ## contact information
 
@@ -16,4 +15,4 @@ Universitaetsstrasse 25<br>
 33615 Bielefeld<br>
 Germany</p>
 
-<p>gerrit <dot> bauch <at> uni-bielefeld <dot> de </p>
+<p>gerrit {dot} bauch {at} uni-bielefeld {dot} de </p>
