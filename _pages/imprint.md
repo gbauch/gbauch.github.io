@@ -8,7 +8,7 @@ nav: false
 
 ## contact information
 
-<p>Gerrit Bauch<br>
+<p><b>Gerrit Bauch</b><br>
 UHG V10-135<br>
 Bielefeld University<br>
 Universitaetsstrasse 25<br>
