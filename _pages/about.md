@@ -22,6 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/) from the University of Arizona.
 
-Before coming to Bielefeld, I've graduated in mathematics at Heidelberg University under the supervision of [Prof. Rainer Weissauer](https://www.researchgate.net/profile/Rainer-Weissauer) on a conjecture on Siegel modular forms.
-
 <p>My research interests include game and decision theory under uncertainty and their application to languages and partnership dissolutions.<br>I further fancy complex analysis and coding theory.</p>
+
+<p>Before coming to Bielefeld, I've graduated in mathematics at Heidelberg University under the supervision of [Prof. Rainer Weissauer](https://www.researchgate.net/profile/Rainer-Weissauer) on a conjecture on Siegel modular forms.</p>
