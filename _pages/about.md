@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a last year PhD student at the Center for Mathematical Economics at Bielefeld University under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/) from the University of Arizona.
+I am a postdoc at the [Center for Mathematical Economics](https://www.uni-bielefeld.de/zwe/imw/) and the [CeUS](https://www.uni-bielefeld.de/einrichtungen/ceus/) as well as an associated postdoc within the [CUDE](https://www.uni-bielefeld.de/zwe/imw/cude/) research training group at Bielefeld University. There, I have recently finished my doctoral studies under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/) from the University of Arizona.
 
 <p>My research interests include game and decision theory under uncertainty and their application to languages and partnership dissolutions.<br>I further fancy complex analysis and coding theory.</p>
 
