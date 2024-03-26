@@ -13,9 +13,13 @@
 - title: education
   type: time_table
   contents:
+    - title: Post-Doc
+      institution: Bielefeld University
+      year: since 2024
+      
     - title: PhD candidate
       institution: Bielefeld University
-      year: since 2019
+      year: 2019-2024
 
     - title: visiting scholar
       institution: University of Arizona
