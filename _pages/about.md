@@ -29,4 +29,4 @@ Before coming to Bielefeld, I've graduated in mathematics at Heidelberg Universi
 
 
 **Job Market Paper:**
-[*Strategic communication of narratives*](https://gbauch.github.io/assets/pdf/narratives_jmp.pdf)
+[Strategic communication of narratives](https://gbauch.github.io/assets/pdf/narratives_jmp.pdf)
