@@ -26,7 +26,7 @@ I am a postdoc at the [IMW](https://www.uni-bielefeld.de/zwe/imw/) and the [CeUS
 
 Before coming to Bielefeld, I've graduated in mathematics at Heidelberg University under the supervision of [Prof. Rainer Weissauer](https://www.researchgate.net/profile/Rainer-Weissauer) on a conjecture on Siegel modular forms.
 
-
+<p></p>
 
 **Job Market Paper:**
 [Strategic communication of narratives](https://gbauch.github.io/assets/pdf/narratives_jmp.pdf)
