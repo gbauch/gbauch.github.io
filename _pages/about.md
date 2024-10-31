@@ -22,10 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a postdoc at the [IMW](https://www.uni-bielefeld.de/zwe/imw/) and the [CeUS](https://www.uni-bielefeld.de/einrichtungen/ceus/) as well as an associated postdoc within the [CUDE](https://www.uni-bielefeld.de/zwe/imw/cude/) research training group at Bielefeld University. I have completed my doctoral studies under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/).
 
-<p>My research interests include game and decision theory under uncertainty and their application to languages and partnership dissolutions.<br>I further fancy complex analysis and coding theory.</p>
+<p>My research interests include game and decision theory under uncertainty and their application to languages, narratives, correlation and partnership dissolutions.</p>
 
 Before coming to Bielefeld, I've graduated in mathematics at Heidelberg University under the supervision of [Prof. Rainer Weissauer](https://www.researchgate.net/profile/Rainer-Weissauer) on a conjecture on Siegel modular forms.
 
 
 
-<p style="text-align: center;"><b>Job Market Paper:</b><br>[<em>Strategic communication of narratives</em>](https://gbauch.github.io/assets/pdf/narratives_jmp.pdf)</p>
+**Job Market Paper:**
+[*Strategic communication of narratives*](https://gbauch.github.io/assets/pdf/narratives_jmp.pdf)
