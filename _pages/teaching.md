@@ -12,7 +12,7 @@ nav_order: 4
 |------|------------------------------------------------------------------------------------------------------------|
 | year | course                                                                                                     |
 |------|------------------------------------------------------------------------------------------------------------|
-| 2024 | practical tutorial on *risk and insurance* (undergraduate), tutorial on micro economics 1 (graduate)       |
+| 2024 | practical tutorial on *risk and insurance* (undergraduate), tutorial on micro economics 1 (graduate), coordinator of the economic theory lunch seminar      |
 | 2023 | practical tutorial on *risk and insurance* (undergraduate)                                                 |
 | 2022 | reading group on *recent developments in game theory and general equilibrium theory* (graduates, scholars) |
 | 2020 | teaching assistant for micro economics 2 (graduate)                                                        |
