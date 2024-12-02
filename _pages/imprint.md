@@ -9,7 +9,7 @@ nav: false
 ## contact information
 
 <p><b>Gerrit Bauch</b><br>
-UHG V10-135<br>
+UHG A4-120<br>
 Bielefeld University<br>
 Universitätstraße 25<br>
 33615 Bielefeld, Germany</p>
