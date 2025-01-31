@@ -7,7 +7,10 @@ nav_order: 2
 ---
 
 ## invited talks
- 
+
+  - *Strategic communication of narratives*<br>
+    [ADRES conference](https://adres2025.sciencesconf.org/), Strasbourg, France, January 30, 2025
+    
   - *Strategic communication of narratives*<br>
     [LEMMA séminaire](http://lemma.u-paris2.fr/fr/node/11), Paris Panthéon-Assas, France, October 8, 2024
 
