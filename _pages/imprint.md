@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /imprint/
-title: imprint
+title: legal notice
 nav: false
 ---
 
