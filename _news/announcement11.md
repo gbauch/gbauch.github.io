@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-08-27 20:00
+inline: true
+related_posts: false
+---
+
+I gave a talk on *Correlation Uncertainty* at the [2nd Workshop on Learning Under Weakly Structured Information]([https://eea-esem-congresses.org/](https://fm.ls/luwsi2025) in Tübingen, Germany.
