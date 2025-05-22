@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a postdoc at the [IMW](https://www.uni-bielefeld.de/zwe/imw/) and the [CeUS](https://www.uni-bielefeld.de/einrichtungen/ceus/) as well as an associated postdoc within the [CUDE](https://www.uni-bielefeld.de/zwe/imw/cude/) research training group at Bielefeld University. I have completed my doctoral studies under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/).
+I am a postdoc at the [IMW](https://www.uni-bielefeld.de/zwe/imw/) and the [CeUS](https://www.uni-bielefeld.de/einrichtungen/ceus/) as well as an associated postdoc within the [CUDE](https://www.uni-bielefeld.de/zwe/imw/cude/) research training group and the [CRC1283](https://www.sfb1283.uni-bielefeld.de/Pages/home) at Bielefeld University. I have completed my doctoral studies under the supervision of [Prof. Frank Riedel](https://wwwhomes.uni-bielefeld.de/friedel/) and [Prof. Andreas Blume](https://sites.google.com/site/andreas3blume/).
 
 <p>My research interests include game and decision theory under uncertainty and their application to languages, narratives, correlation and partnership dissolutions.</p>
 
