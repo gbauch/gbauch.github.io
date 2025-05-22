@@ -9,6 +9,12 @@ nav_order: 2
 ## invited talks
 
   - *Strategic communication of narratives*<br>
+    [Seminar of Economics and Management (SEAM)](https://wiwi.uni-paderborn.de/en/forschen/seminare-workshops-und-qualifizierungsangebote/seam), Paderborn, Germany, May 18, 2025
+    
+  - *Correlation Uncertainty*<br>
+    [2nd Workshop on Learning Under Weakly Structured Information](https://fm.ls/luwsi2025), Tübingen, Germany, April 8, 2025.
+    
+  - *Strategic communication of narratives*<br>
     [ADRES conference](https://adres2025.sciencesconf.org/), Strasbourg, France, January 30, 2025
     
   - *Strategic communication of narratives*<br>
@@ -18,7 +24,7 @@ nav_order: 2
     [EEA/ESEM Congress 2024](https://eea-esem-congresses.org/), Rotterdam, the Netherlands, August 27, 2024
 
   - *The Texas Shoot-Out under Knightian Uncertainty*<br>
-    [Conference on Mechanism and Institution Design](https://www.uni-corvinus.hu/ind/cmid/?lang=en), Budapest, Hungary, July 12, 2024.
+    [Conference on Mechanism and Institution Design](https://www.uni-corvinus.hu/ind/cmid/?lang=en), Budapest, Hungary, July 12, 2024
 
   - *Effects of noise on the grammar of languages*<br>
     [2nd Paris Workshop on Games, Decisions, and Language](https://game-theory.u-paris2.fr/index-2024.html), Paris Panthéon-Assas, France, June 13, 2024
