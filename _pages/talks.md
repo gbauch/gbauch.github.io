@@ -8,13 +8,13 @@ nav_order: 2
 
 ## invited talks
 
-  - Strategic communication of narratives*<br>
+  - *Strategic communication of narratives*<br>
     [Annual Conference 2025 of the German Economic Association](https://www.socialpolitik.de/de/termin/annual-conference-2025), Cologne, Germany, September, 2025
 
-  - Strategic communication of narratives*<br>
+  - *Strategic communication of narratives*<br>
     [XXIV SAET CONFERENCE](https://www.mathematical-economics-naples.eu/), Ischia, Italy, July 1, 2025
 
-  - Strategic communication of narratives*<br>
+  - *Strategic communication of narratives*<br>
     [The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/), Lisbon, Portugal, June 20, 2025
 
   - *Correlation Uncertainty*<br>
