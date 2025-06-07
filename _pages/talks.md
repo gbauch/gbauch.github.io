@@ -17,7 +17,7 @@ nav_order: 2
   - Strategic communication of narratives*<br>
     [The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/), Lisbon, Portugal, June 20, 2025
 
-  -*Correlation Uncertainty*<br>
+  - *Correlation Uncertainty*<br>
     [Workshop on Unforeseen Contingencies: Representations and Application](https://sites.google.com/site/aniguerdjikova/workshop-on-unforeseen-contingencies), Grenoble, France, June 5, 2025
     
   - *Strategic communication of narratives*<br>
