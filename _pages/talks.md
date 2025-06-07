@@ -8,11 +8,23 @@ nav_order: 2
 
 ## invited talks
 
+  - Strategic communication of narratives*<br>
+    [Annual Conference 2025 of the German Economic Association](https://www.socialpolitik.de/de/termin/annual-conference-2025), Cologne, Germany, September, 2025
+
+  - Strategic communication of narratives*<br>
+    [XXIV SAET CONFERENCE](https://www.mathematical-economics-naples.eu/), Ischia, Italy, July 1, 2025
+
+  - Strategic communication of narratives*<br>
+    [The Lisbon Meetings in Game Theory and Applications](https://www.lisbonmeetings.com/), Lisbon, Portugal, June 20, 2025
+
+  -*Correlation Uncertainty*<br>
+    [Workshop on Unforeseen Contingencies: Representations and Application](https://sites.google.com/site/aniguerdjikova/workshop-on-unforeseen-contingencies), Grenoble, France, June 5, 2025
+    
   - *Strategic communication of narratives*<br>
-    [Seminar of Economics and Management (SEAM)](https://wiwi.uni-paderborn.de/en/forschen/seminare-workshops-und-qualifizierungsangebote/seam), Paderborn, Germany, May 18, 2025
+    [Seminar of Economics and Management (SEAM)](https://wiwi.uni-paderborn.de/en/forschen/seminare-workshops-und-qualifizierungsangebote/seam), Paderborn, Germany, May 19, 2025
     
   - *Correlation Uncertainty*<br>
-    [2nd Workshop on Learning Under Weakly Structured Information](https://fm.ls/luwsi2025), Tübingen, Germany, April 8, 2025.
+    [2nd Workshop on Learning Under Weakly Structured Information](https://fm.ls/luwsi2025), Tübingen, Germany, April 8, 2025
     
   - *Strategic communication of narratives*<br>
     [ADRES conference](https://adres2025.sciencesconf.org/), Strasbourg, France, January 30, 2025
