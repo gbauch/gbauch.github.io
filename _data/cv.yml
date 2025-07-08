@@ -6,7 +6,7 @@
     - name: nationality
       value: German
    # - name: Date of Birth
-   #   value: September 17 1993
+   #   value: month date yeat
    # - name: Languages
    #   value: English, German
 
@@ -71,4 +71,4 @@
     - hiking, table tennis, apnea diving, climbing, wave surfing
     - learning new languages
     - admirer of Wallace Stevens
-    - Kolmogorov swimming number 3
+    - Kolmogorov swimming number: 3
