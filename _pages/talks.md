@@ -11,6 +11,9 @@ nav_order: 2
   - *Strategic communication of narratives*<br>
     [Annual Conference 2025 of the German Economic Association](https://www.socialpolitik.de/de/termin/annual-conference-2025), Cologne, Germany, September, 2025
 
+  - *Correlation Uncertainty: a decision-theoretic approach*<br>
+    [14th International Symposium on Imprecise Probabilities](https://isipta25.sipta.org/), Bielefeld, Germany, July 15, 2025
+
   - *Strategic communication of narratives*<br>
     [XXIV SAET CONFERENCE](https://www.mathematical-economics-naples.eu/), Ischia, Italy, July 1, 2025
 
