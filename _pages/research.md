@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: research articles by categories in reversed chronological order.
+description: finished research articles in reversed chronological order.
 nav: true
 nav_order: 1
 ---
