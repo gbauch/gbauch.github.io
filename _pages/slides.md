@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slides
-permalink: /x7q9-slides/
+permalink: /slides/
 nav: false
 robots: noindex
 ---
