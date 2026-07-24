@@ -8,6 +8,12 @@ nav_order: 2
 
 ## invited talks
 
+  - *Dependence Uncertainty*<br>
+    [The 24th Conference of the International Federation of Operational Research Societies](https://www.ifors2026.at/home/), Vienna, austria, July 13, 2026
+    
+ - *Calling the Price or Making the Call? Role Preferences in Texas Shootout Clause*<br>
+    [Conference on Mechanism and Institution Design](https://www.mechanism-design.org/cmid26.php), York, UK, June 23, 2026
+   
   - *Strategic communication of narratives*<br>
     [Annual Conference 2025 of the German Economic Association](https://www.socialpolitik.de/de/termin/annual-conference-2025), Cologne, Germany, September 15, 2025
 
